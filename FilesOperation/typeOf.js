@@ -1,3 +1,4 @@
+//Fetching the type of contents in the file (Question 4)
 
 const fs = require('fs')
 const directory = '../FilesOperation/';

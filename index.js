@@ -1,3 +1,5 @@
+//Event emitter codes
+
 const event = require('events')
 const util= require('util')
 
